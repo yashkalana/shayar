@@ -1,0 +1,32 @@
+{
+  "name": "Shayari App",
+  "short_name": "Shayari",
+  "description": "Read beautiful Love, Sad, Breakup, and Motivational Shayari",
+  "id": "/",
+  "start_url": "index.html",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "window-controls-overlay"],
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#d7263d",
+  "lang": "en",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icon512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "600x800",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["entertainment", "lifestyle", "books"]
+}
